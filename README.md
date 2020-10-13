@@ -1,1 +1,1 @@
-# wsx2792.gihub.io
+# wsx2792.github.io
